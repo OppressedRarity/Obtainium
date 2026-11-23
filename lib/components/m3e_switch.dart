@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:obtainium/theme.dart';
+import 'package:obtainium/providers/settings_provider.dart';
+import 'package:provider/provider.dart';
 
 /// Material 3 Expressive switch.
 ///
